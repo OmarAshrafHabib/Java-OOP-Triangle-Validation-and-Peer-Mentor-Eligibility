@@ -1,7 +1,7 @@
 /**
  This class represents a point in the Cartesian
  co-ordinate system.
- @author Natalie Webber
+ @author Omar Habib
 */
 public class CartesianPoint {
 
