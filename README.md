@@ -22,5 +22,4 @@ Generate Javadoc comments for `Triangle.java` to ensure all methods are document
 - `Triangle.java`: Contains the enhanced `Triangle` class.
 - `TriangleTest.java`: Tests triangle properties.
 
-## License
-This project is for educational purposes.
+
